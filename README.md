@@ -89,10 +89,8 @@ sentiment_trader_behavior_analysis/
 │
 ├── notebook/
 │ └── analysis.ipynb
-├── data/
-│ ├── sentiment_data.csv
-│ └── trades_data.csv
 ├── output/
 │ ├── charts/
 │ └── tables/
+
 └── README.md
