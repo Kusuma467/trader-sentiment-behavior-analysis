@@ -85,7 +85,7 @@ A simple classification approach was explored to predict next-day profitability 
 ---
 
 ## Project Structure
-'''
+```
 sentiment_trader_behavior_analysis/
 │
 ├── notebook/
@@ -96,5 +96,6 @@ sentiment_trader_behavior_analysis/
 │ └── tables/
 │
 └── README.md
-'''
+```
+
 
